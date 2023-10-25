@@ -1,10 +1,11 @@
 import logo from './logo.svg';
+import CompCalc from './CompCalc';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      
+      <CompCalc/>
 
 
 
